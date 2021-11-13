@@ -35,7 +35,7 @@
   background-color: inherit;
 }
 
-[placeholder] {
+textarea::placeholder {
   padding-left: 16px;
 
   font-weight: 400;
