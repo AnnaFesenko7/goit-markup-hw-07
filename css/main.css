@@ -239,7 +239,7 @@ header .container {
   height: 600px;
   background-position: center 0;
   background-size: cover;
-  background-image: linear-gradient(to right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url("../../img/headeimg.jpg");
+  background-image: linear-gradient(to right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url("../img/headeimg.jpg");
 }
 
 .hero__title {
@@ -488,12 +488,12 @@ header .container {
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.01em;
+  padding-left: 0;
   color: rgba(117, 117, 117, 0.5);
 }
 
 input,
 textarea {
-  padding: 8px;
   font-family: inherit;
   font-size: inherit;
   color: blue;
