@@ -1,0 +1,8 @@
+header {
+  .container {
+    @include centeredFlex();
+
+    border-bottom: 3px solid $buttons-color;
+    position: relative;
+  }
+}
